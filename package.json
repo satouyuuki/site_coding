@@ -1,0 +1,16 @@
+{
+  "name": "site_coding",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "imagemin": "node gulpfile.js"
+  },
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "gulp": "~4.0.0",
+    "gulp-sass": "~4.0.2",
+    "gulp-changed": "~3.2.0"
+  }
+}
